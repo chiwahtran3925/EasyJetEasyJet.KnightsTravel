@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyJet.KnightsTravel.ConsoleApp", "EasyJet.KnightsTravel.ConsoleApp\EasyJet.KnightsTravel.ConsoleApp.csproj", "{E719756D-3F26-4FA1-8525-D609437A467A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyJet.KnightsTravel.Application", "EasyJet.KnightsTravel.Application\EasyJet.KnightsTravel.Application.csproj", "{923B9761-9A15-4544-9440-2AF2FB2F665B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyJet.KnightsTravel.Domain", "EasyJet.KnightsTravel.Domain\EasyJet.KnightsTravel.Domain.csproj", "{D29D7EA8-5BB3-4085-956B-2EB0E38D4966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyJet.KnightsTravel.Infrastructure", "EasyJet.KnightsTravel.Infrastructure\EasyJet.KnightsTravel.Infrastructure.csproj", "{0F032200-320C-449A-A861-6F7222B51141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyJet.KnightsTravel.Presentation", "EasyJet.KnightsTravel.Presentation\EasyJet.KnightsTravel.Presentation.csproj", "{C21D98D8-1A25-4413-BE4B-CDACEE089DEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyJet.KnightsTravel.Tests", "EasyJet.KnightsTravel.Tests\EasyJet.KnightsTravel.Tests.csproj", "{7C5C3E2C-C863-4863-A359-5948DBDA3692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E719756D-3F26-4FA1-8525-D609437A467A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E719756D-3F26-4FA1-8525-D609437A467A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E719756D-3F26-4FA1-8525-D609437A467A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E719756D-3F26-4FA1-8525-D609437A467A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923B9761-9A15-4544-9440-2AF2FB2F665B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923B9761-9A15-4544-9440-2AF2FB2F665B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923B9761-9A15-4544-9440-2AF2FB2F665B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923B9761-9A15-4544-9440-2AF2FB2F665B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D29D7EA8-5BB3-4085-956B-2EB0E38D4966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29D7EA8-5BB3-4085-956B-2EB0E38D4966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29D7EA8-5BB3-4085-956B-2EB0E38D4966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29D7EA8-5BB3-4085-956B-2EB0E38D4966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F032200-320C-449A-A861-6F7222B51141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F032200-320C-449A-A861-6F7222B51141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F032200-320C-449A-A861-6F7222B51141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F032200-320C-449A-A861-6F7222B51141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21D98D8-1A25-4413-BE4B-CDACEE089DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21D98D8-1A25-4413-BE4B-CDACEE089DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21D98D8-1A25-4413-BE4B-CDACEE089DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21D98D8-1A25-4413-BE4B-CDACEE089DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C5C3E2C-C863-4863-A359-5948DBDA3692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5C3E2C-C863-4863-A359-5948DBDA3692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5C3E2C-C863-4863-A359-5948DBDA3692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5C3E2C-C863-4863-A359-5948DBDA3692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
