@@ -89,6 +89,9 @@ For VS Code users:
 
 - Open folder > open terminal > then run the above CLI commands.
 
+### Note on Repository Naming
+The repository name includes `EasyJetEasyJet.KnightsTravel` due to the initial setup, but the solution and namespaces are consistently named `EasyJet.KnightsTravel`.
+
 # Example Output
 ```bash
 Enter board size between 5-8:
